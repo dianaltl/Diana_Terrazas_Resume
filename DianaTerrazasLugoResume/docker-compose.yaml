@@ -1,0 +1,11 @@
+name: DianaTerrazasLugoResume
+
+services:
+  server:
+    image: hugomods/hugo:exts
+    command: hugo server --bind 0.0.0.0
+    volumes:
+      - C:/Users/ual-laptop/MIS547/assignment-6-dianaltl/DianaTerrazasLugoResume:/src
+      - C:/Users/ual-laptop/hugo_cache:/tmp/hugo_cache
+    ports:
+      - 1313:1313
