@@ -1,0 +1,32 @@
+- company: AZ Cyber Initiative
+  roles:
+    - role: Program Manager
+      details: |
+        Interviewed, hired, and mentored 3 groups of 4 interns to manage various projects.
+        Communicated with instructors to organize a best fit plan for the students
+        Taught high school students through weekly bootcamps and guided them through each module. 
+      date: 05.2023 -  Present
+
+- company: University of Arizona | MIS Department
+  page: 1
+  roles: 
+    - role: Student Worker
+      # tools: SQL, Python, Kafka, R
+      details: |
+        Provide administrative support to the department, such as handling phone calls, responding to emails, and filing documents.
+        Assist in data entry tasks, including updating databases, spreadsheets, and other relevant systems with accurate information.
+        Work collaboratively with other student workers and departmental staff.
+      date: 10.2021 - 05.2023
+    
+    # - role:
+
+# - company: Company 1
+  #page: 2
+  #roles:
+   # - role: Junior Software Developer
+    #  tools: C#, Python, Postgresql
+     # details: |
+      #  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sollicitudin fringilla.
+      #  Aenean nec volutpat arcu. Maecenas quis tempus risus. Curabitur condimentum ligula in erat pharetra porta. 
+      #  Nam suscipit nisi a bibendum lacinia. Donec aliquet, nibh dignissim placerat efficit
+      #date: 2017 - 2018
