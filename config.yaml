@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "Resume | Diana Terrazas-Lugo"
 disableKinds: ["taxonomy", "term", "page", "section", "RSS", "sitemap", "robotsTXT", "404"]
 theme: "resume-a4"
+publishDir: "public"
 
 # Construct main column, side column and additional page from features
 # Every column and page may include any features. Some features are
