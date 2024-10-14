@@ -3,4 +3,4 @@ FROM hugomods/hugo:exts
 COPY . /src
 
 # Build site.
-RUN hugo --minify 
+RUN hugo --minify -d public
